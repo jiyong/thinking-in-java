@@ -1,1 +1,1 @@
-# 《Thinking in Java》的练习
+# Thinking in Java
