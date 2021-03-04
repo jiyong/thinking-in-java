@@ -1,4 +1,4 @@
-/**
+package generics; /**
  * generics/Apply.java
  * {main: ApplyTest}
  * @author jiyong.me
